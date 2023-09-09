@@ -1,0 +1,96 @@
+Timestamp,Level,Message
+"Jun 11, 2023, 10:16:04 AM",WARNING,	 [[{{node Placeholder/_0}}]]
+"Jun 11, 2023, 10:16:04 AM",WARNING,2023-06-11 04:46:04.354368: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype int32
+"Jun 11, 2023, 9:18:25 AM",WARNING,	 [[{{node Placeholder/_0}}]]
+"Jun 11, 2023, 9:18:25 AM",WARNING,2023-06-11 03:48:25.309569: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype int32
+"Jun 11, 2023, 9:11:19 AM",WARNING,	 [[{{node Placeholder/_0}}]]
+"Jun 11, 2023, 9:11:19 AM",WARNING,2023-06-11 03:41:19.841208: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype int32
+"Jun 11, 2023, 9:10:35 AM",INFO,Kernel interrupted: 79899d14-3d91-472b-8e7b-447abb909f1a
+"Jun 11, 2023, 9:07:02 AM",WARNING,	 [[{{node Placeholder/_0}}]]
+"Jun 11, 2023, 9:07:02 AM",WARNING,2023-06-11 03:37:02.554611: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype int32
+"Jun 11, 2023, 9:04:02 AM",WARNING,	 [[{{node Placeholder/_0}}]]
+"Jun 11, 2023, 9:04:02 AM",WARNING,2023-06-11 03:34:02.650997: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype int32
+"Jun 11, 2023, 8:45:02 AM",WARNING,2023-06-11 03:15:02.249686: W tensorflow/core/framework/op_kernel.cc:1818] INVALID_ARGUMENT: required broadcastable shapes
+"Jun 11, 2023, 8:45:02 AM",WARNING,2023-06-11 03:15:02.249642: W tensorflow/core/framework/op_kernel.cc:1818] INVALID_ARGUMENT: required broadcastable shapes
+"Jun 11, 2023, 8:45:02 AM",WARNING,2023-06-11 03:15:02.249482: W tensorflow/core/framework/op_kernel.cc:1818] INVALID_ARGUMENT: required broadcastable shapes
+"Jun 11, 2023, 8:45:02 AM",WARNING,	 [[{{node add}}]]
+"Jun 11, 2023, 8:45:02 AM",WARNING,2023-06-11 03:15:02.249323: I tensorflow/core/common_runtime/executor.cc:1197] [/job:localhost/replica:0/task:0/device:GPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: required broadcastable shapes
+"Jun 11, 2023, 8:45:02 AM",WARNING,2023-06-11 03:15:02.249261: W tensorflow/core/framework/op_kernel.cc:1818] INVALID_ARGUMENT: required broadcastable shapes
+"Jun 11, 2023, 8:30:57 AM",WARNING,"2023-06-11 03:00:57.702019: W tensorflow/tsl/framework/bfc_allocator.cc:296] Allocator (GPU_0_bfc) ran out of memory trying to allocate 6.06GiB with freed_by_count=0. The caller indicates that this is not a failure, but this may mean that there could be performance gains if more memory were available."
+"Jun 11, 2023, 8:30:57 AM",WARNING,"2023-06-11 03:00:57.639166: W tensorflow/tsl/framework/bfc_allocator.cc:296] Allocator (GPU_0_bfc) ran out of memory trying to allocate 6.06GiB with freed_by_count=0. The caller indicates that this is not a failure, but this may mean that there could be performance gains if more memory were available."
+"Jun 11, 2023, 8:30:57 AM",WARNING,"2023-06-11 03:00:57.036470: W tensorflow/tsl/framework/bfc_allocator.cc:296] Allocator (GPU_0_bfc) ran out of memory trying to allocate 5.09GiB with freed_by_count=0. The caller indicates that this is not a failure, but this may mean that there could be performance gains if more memory were available."
+"Jun 11, 2023, 8:30:57 AM",WARNING,"2023-06-11 03:00:57.016289: W tensorflow/tsl/framework/bfc_allocator.cc:296] Allocator (GPU_0_bfc) ran out of memory trying to allocate 5.09GiB with freed_by_count=0. The caller indicates that this is not a failure, but this may mean that there could be performance gains if more memory were available."
+"Jun 11, 2023, 8:30:35 AM",WARNING,"2023-06-11 03:00:35.564834: W tensorflow/tsl/framework/bfc_allocator.cc:296] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.39GiB with freed_by_count=0. The caller indicates that this is not a failure, but this may mean that there could be performance gains if more memory were available."
+"Jun 11, 2023, 8:30:34 AM",WARNING,"2023-06-11 03:00:34.473100: W tensorflow/tsl/framework/bfc_allocator.cc:296] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.39GiB with freed_by_count=0. The caller indicates that this is not a failure, but this may mean that there could be performance gains if more memory were available."
+"Jun 11, 2023, 8:30:14 AM",WARNING,2023-06-11 03:00:14.803181: I tensorflow/compiler/xla/stream_executor/cuda/cuda_dnn.cc:424] Loaded cuDNN version 8700
+"Jun 11, 2023, 8:30:08 AM",WARNING,	 [[{{node Placeholder/_0}}]]
+"Jun 11, 2023, 8:30:08 AM",WARNING,2023-06-11 03:00:08.502083: I tensorflow/core/common_runtime/executor.cc:1197] [/device:CPU:0] (DEBUG INFO) Executor start aborting (this does not indicate an error and you can ignore this message): INVALID_ARGUMENT: You must feed a value for placeholder tensor 'Placeholder/_0' with dtype int32
+"Jun 11, 2023, 8:29:50 AM",WARNING,"2023-06-11 02:59:50.559856: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1635] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 13664 MB memory:  -> device: 0, name: Tesla T4, pci bus id: 0000:00:04.0, compute capability: 7.5"
+"Jun 11, 2023, 8:29:50 AM",WARNING,2023-06-11 02:59:50.559804: W tensorflow/core/common_runtime/gpu/gpu_bfc_allocator.cc:47] Overriding orig_value setting because the TF_FORCE_GPU_ALLOW_GROWTH environment variable is set. Original config value was 0.
+"Jun 11, 2023, 8:29:50 AM",WARNING,"2023-06-11 02:59:50.559599: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:50 AM",WARNING,"2023-06-11 02:59:50.559165: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:50 AM",WARNING,"2023-06-11 02:59:50.558178: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:47 AM",WARNING,"2023-06-11 02:59:47.870629: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:47 AM",WARNING,"2023-06-11 02:59:47.869789: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:47 AM",WARNING,"2023-06-11 02:59:47.868356: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:27 AM",WARNING,"2023-06-11 02:59:27.671595: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:27 AM",WARNING,"2023-06-11 02:59:27.671167: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:27 AM",WARNING,"2023-06-11 02:59:27.113589: I tensorflow/compiler/xla/stream_executor/cuda/cuda_gpu_executor.cc:996] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero. See more at https://github.com/torvalds/linux/blob/v6.0/Documentation/ABI/testing/sysfs-bus-pci#L344-L355"
+"Jun 11, 2023, 8:29:24 AM",WARNING,2023-06-11 02:59:24.814783: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+"Jun 11, 2023, 8:29:23 AM",WARNING,"To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags."
+"Jun 11, 2023, 8:29:23 AM",WARNING,2023-06-11 02:59:23.735602: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+"Jun 11, 2023, 8:28:39 AM",INFO,"Kernel started: 79899d14-3d91-472b-8e7b-447abb909f1a, name: python3"
+"Jun 11, 2023, 8:27:29 AM",INFO,Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+"Jun 11, 2023, 8:27:29 AM",INFO,http://172.28.0.12:9000/
+"Jun 11, 2023, 8:27:29 AM",INFO,Jupyter Notebook 6.4.8 is running at:
+"Jun 11, 2023, 8:27:29 AM",INFO,Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+"Jun 11, 2023, 8:27:29 AM",INFO,http://172.28.0.2:9000/
+"Jun 11, 2023, 8:27:29 AM",INFO,Jupyter Notebook 6.4.8 is running at:
+"Jun 11, 2023, 8:27:29 AM",INFO,Serving notebooks from local directory: /
+"Jun 11, 2023, 8:27:29 AM",INFO,Serving notebooks from local directory: /
+"Jun 11, 2023, 8:27:25 AM",INFO,google.colab serverextension initialized.
+"Jun 11, 2023, 8:27:25 AM",INFO,google.colab serverextension initialized.
+"Jun 11, 2023, 8:27:25 AM",INFO,"Authentication of /metrics is OFF, since other authentication is disabled."
+"Jun 11, 2023, 8:27:25 AM",INFO,Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/root/.jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/root/.local/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/usr/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/usr/local/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/usr/local/etc/jupyter/jupyter_notebook_config.d/panel-client-jupyter.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",INFO,"Authentication of /metrics is OFF, since other authentication is disabled."
+"Jun 11, 2023, 8:27:25 AM",INFO,Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/root/.jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/root/.local/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/usr/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/usr/local/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/usr/local/etc/jupyter/jupyter_notebook_config.d/panel-client-jupyter.json
+"Jun 11, 2023, 8:27:25 AM",WARNING,    	/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.502 NotebookApp] Loaded config file: /root/.jupyter/jupyter_notebook_config.py
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.490 NotebookApp] Looking for jupyter_notebook_config in /root/.jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.490 NotebookApp] Looking for jupyter_notebook_config in /root/.local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.490 NotebookApp] Looking for jupyter_notebook_config in /usr/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.490 NotebookApp] Loaded config file: /usr/local/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.490 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.490 NotebookApp] Loaded config file: /etc/jupyter/jupyter_notebook_config.py
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.488 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.488 NotebookApp] Looking for jupyter_config in /root/.jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.487 NotebookApp] Looking for jupyter_config in /root/.local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.487 NotebookApp] Looking for jupyter_config in /usr/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.485 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.499 NotebookApp] Loaded config file: /root/.jupyter/jupyter_notebook_config.py
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.498 NotebookApp] Looking for jupyter_notebook_config in /root/.jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.498 NotebookApp] Looking for jupyter_notebook_config in /root/.local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.498 NotebookApp] Looking for jupyter_notebook_config in /usr/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.498 NotebookApp] Loaded config file: /usr/local/etc/jupyter/jupyter_notebook_config.json
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.496 NotebookApp] Looking for jupyter_notebook_config in /usr/local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.496 NotebookApp] Loaded config file: /etc/jupyter/jupyter_notebook_config.py
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.493 NotebookApp] Looking for jupyter_notebook_config in /etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.492 NotebookApp] Looking for jupyter_config in /root/.jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.492 NotebookApp] Looking for jupyter_config in /root/.local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.492 NotebookApp] Looking for jupyter_config in /usr/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.492 NotebookApp] Looking for jupyter_config in /usr/local/etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.484 NotebookApp] Looking for jupyter_config in /etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,[D 02:57:24.491 NotebookApp] Looking for jupyter_config in /etc/jupyter
+"Jun 11, 2023, 8:27:24 AM",WARNING,"[D 02:57:24.483 NotebookApp] Searching ['/root/.jupyter', '/root/.local/etc/jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files"
+"Jun 11, 2023, 8:27:24 AM",WARNING,"[D 02:57:24.483 NotebookApp] Searching ['/root/.jupyter', '/root/.local/etc/jupyter', '/usr/etc/jupyter', '/usr/local/etc/jupyter', '/etc/jupyter'] for config files"
